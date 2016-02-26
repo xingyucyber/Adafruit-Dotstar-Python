@@ -50,3 +50,8 @@ while True:                              # Loop forever
 
 	tail += 1                        # Advance tail position
 	if(tail >= numpixels): tail = 0  # Off end? Reset
+	
+	
+	
+	
+	#Hey Jacob
